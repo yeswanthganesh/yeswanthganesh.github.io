@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yeswanth Ganesh - Embedded Systems Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Embedded Systems Engineer Portfolio">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial; margin: 20px; background-color: #f5f5f5;">
+    <header>
+        <h1>Yeswanth Ganesh</h1>
+        <p>Embedded Systems Enthusiast | C | C++ | Python | IoT</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Final-year B.Tech ECE student with hands-on experience in Embedded Systems, IoT, and Linux environments. Skilled in microcontroller development, hardware interfacing, and prototyping.</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C, C++, Python, Embedded C</li>
+            <li>Arduino, Raspberry Pi, ESP32</li>
+            <li>UART, I2C, SPI</li>
+            <li>Git, Proteus, MPLAB</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>Smart College Temperature Monitoring System – Arduino + DHT11 + LCD</li>
+            <li>Secure Digital Door Lock System – Keypad + Servo + EEPROM</li>
+            <li>LDR-Based Automatic Lighting System</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact: <a href="mailto:yeswanthganeshk@gmail.com">yeswanthganeshk@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yeswanth-ganesh-kommanapalli-125ab6347">My LinkedIn</a></p>
+        <p>GitHub: <a href="https://github.com/yeswanthganesh">My GitHub</a></p>
+    </footer>
+</body>
+</html>
